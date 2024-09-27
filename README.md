@@ -1,4 +1,4 @@
-Movement Labs Project
+# Movement Labs Project
 
 I analyzed a dataset for Movement Labs, who I interned with. They are a consulting firm that leverages technology to enhance 
 progressive power and electoral strategies, focusing on voter engagement and campaign tactics.
